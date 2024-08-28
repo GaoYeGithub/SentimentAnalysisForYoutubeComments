@@ -1,3 +1,8 @@
+Fork and run 
+
+pip install poetry.lock
+python main.py
+
 Web scrape and sentiment analysis for Youtube Comments
 
 A simple python application that check youtube comments to provide consecutive feedback or check if the video is good. By simply inputing the video url
